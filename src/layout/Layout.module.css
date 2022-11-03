@@ -1,0 +1,4 @@
+.layout-body {
+  margin-left: var(--side-nav-width);
+  padding: 20px;
+}
